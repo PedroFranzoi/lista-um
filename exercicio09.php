@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contar quantos números pares existem entre 1 e o número informado</title>
+    <title>Receber dois números e exibir a soma de todos os números entre eles</title>
 </head>
 
 <body>
